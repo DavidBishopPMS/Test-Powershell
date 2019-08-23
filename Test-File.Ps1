@@ -8,6 +8,29 @@ Clear-Host
 
 Testing Version Control with GitHub
 Hello World!!
+<<<<<<< Updated upstream
+=======
+Test
+
+
+
+
+
+
+Hello this is a local copy test
+
+Testing online version edit
+
+
+Lets edit this file again 
+
+
+
+
+
+
+
+>>>>>>> Stashed changes
 
 
 
