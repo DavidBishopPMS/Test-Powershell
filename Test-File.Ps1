@@ -8,26 +8,6 @@ Clear-Host
 
 Testing Version Control with GitHub
 Hello World!!
-Test
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
