@@ -8,8 +8,6 @@ Clear-Host
 
 Testing Version Control with GitHub
 Hello World!!
-<<<<<<< Updated upstream
-=======
 Test
 
 Test for meeting on the 12/09/2019
@@ -25,30 +23,8 @@ Testing online version edit
 
 Lets edit this file again 
 
+Hello this is a local copy test
 
-
-
-
-
-
->>>>>>> Stashed changes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Testing online version edit
 
 Welcome2
